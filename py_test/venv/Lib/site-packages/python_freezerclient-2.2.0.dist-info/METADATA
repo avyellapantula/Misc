@@ -1,0 +1,82 @@
+Metadata-Version: 2.1
+Name: python-freezerclient
+Version: 2.2.0
+Summary: OpenStack Disaster Recovery API Client Library
+Home-page: https://docs.openstack.org/python-freezerclient/latest/
+Author: OpenStack
+Author-email: openstack-discuss@lists.openstack.org
+License: Apache License, Version 2.0
+Keywords: freezer,freezerclient,python-freezerclient
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Natural Language :: English
+Classifier: Environment :: OpenStack
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: POSIX :: BSD :: FreeBSD
+Classifier: Operating System :: POSIX :: BSD :: NetBSD
+Classifier: Operating System :: POSIX :: BSD :: OpenBSD
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: Unix
+Classifier: Topic :: System :: Archiving :: Backup
+Classifier: Topic :: System :: Archiving :: Compression
+Classifier: Topic :: System :: Archiving
+Requires-Dist: setuptools (!=24.0.0,!=34.0.0,!=34.0.1,!=34.0.2,!=34.0.3,!=34.1.0,!=34.1.1,!=34.2.0,!=34.3.0,!=34.3.1,!=34.3.2,!=36.2.0,>=21.0.0)
+Requires-Dist: pbr (!=2.1.0,>=2.0.0)
+Requires-Dist: keystoneauth1 (>=3.4.0)
+Requires-Dist: cliff (!=2.9.0,>=2.8.0)
+Requires-Dist: oslo.serialization (>=2.25.0)
+Requires-Dist: oslo.utils (>=3.33.0)
+
+========================
+Team and repository tags
+========================
+
+.. image:: https://governance.openstack.org/tc/badges/python-freezerclient.svg
+    :target: https://governance.openstack.org/tc/reference/tags/index.html
+
+.. Change things from this point on
+
+=============================================================
+Python bindings to the OpenStack Backup/Restore API (Freezer)
+=============================================================
+
+.. image:: https://img.shields.io/pypi/v/python-freezerclient.svg
+    :target: https://pypi.org/project/python-freezerclient/
+    :alt: Latest Version
+
+This is a client library for Freezer built on the OpenStack Disaster Recovery API. It provides a Python API (the freezerclient module) and a command-line tool (freezer). This library fully supports the v1 Disaster Recovery API.
+
+Development takes place via the usual OpenStack processes as outlined in the `developer guide <https://docs.openstack.org/infra/manual/developers.html>`_.  The master repository is in `Git <https://opendev.org/openstack/python-freezerclient>`_.
+
+
+* License: Apache License, Version 2.0
+* `PyPi`_ - package installation
+* `Online Documentation`_
+* `Launchpad project`_ - release management
+* `Blueprints`_ - feature specifications
+* `Bugs`_ - issue tracking
+* `Source`_
+* `How to Contribute`_
+
+.. _PyPi: https://pypi.org/project/python-freezerclient
+.. _Online Documentation: https://wiki.openstack.org/wiki/Python-freezerclient
+.. _Launchpad project: https://launchpad.net/python-freezerclient
+.. _Blueprints: https://blueprints.launchpad.net/python-freezerclient
+.. _Bugs: https://storyboard.openstack.org/#!/project/openstack/python-freezerclient
+.. _Source: https://opendev.org/openstack/python-freezerclient
+.. _How to Contribute: https://docs.openstack.org/infra/manual/developers.html
+.. _Release notes: https://docs.openstack.org/releasenotes/python-freezerclient/
+
+
+

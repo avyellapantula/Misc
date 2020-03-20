@@ -1,0 +1,3 @@
+[console_scripts]
+freezer = freezerclient.shell:main
+

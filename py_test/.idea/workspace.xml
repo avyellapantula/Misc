@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bce82386-fee6-4a64-8375-adafd5e4c66a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VrLbqu3NUgywUgiNx9HuoM9h65" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.combine_pdf">
+    <configuration name="combine_pdf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/combine_pdf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tk_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tk_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tkpy_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\avocado\Desktop\py_test\combine_pdf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.combine_pdf" />
+        <item itemvalue="Python.tkpy_test" />
+        <item itemvalue="Python.tk_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bce82386-fee6-4a64-8375-adafd5e4c66a" name="Default Changelist" comment="" />
+      <created>1578006342022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578006342022</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578025513868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578025513868" />
+    <state width="1893" height="270" key="GridCell.Tab.0.bottom" timestamp="1578506651806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1893" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578506651806" />
+    <state width="1893" height="270" key="GridCell.Tab.0.center" timestamp="1578506651806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1893" height="270" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578506651806" />
+    <state width="1893" height="270" key="GridCell.Tab.0.left" timestamp="1578506651806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1893" height="270" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578506651806" />
+    <state width="1893" height="270" key="GridCell.Tab.0.right" timestamp="1578506651806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1893" height="270" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578506651806" />
+    <state width="1893" height="335" key="GridCell.Tab.1.bottom" timestamp="1578025515214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1893" height="335" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578025515214" />
+    <state width="1893" height="335" key="GridCell.Tab.1.center" timestamp="1578025515213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1893" height="335" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578025515213" />
+    <state width="1893" height="335" key="GridCell.Tab.1.left" timestamp="1578025515213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1893" height="335" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578025515213" />
+    <state width="1893" height="335" key="GridCell.Tab.1.right" timestamp="1578025515214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1893" height="335" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578025515214" />
+    <state x="539" y="5" key="search.everywhere.popup" timestamp="1578058409222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578058409222" />
+  </component>
+</project>
